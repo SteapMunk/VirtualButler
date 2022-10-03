@@ -4,8 +4,8 @@
 
 ## Butler
 - Conceptualize the scope for the butler  
-- Plan what type of data we will want it to process (understanding tags/genres? Relating to other users?)
-- Main focuse for what the butler will be butlering (Movies, restaurants, books, etc
+- Plan what type of data we will want it to process (understanding tags/genres? Relating options to other users' preferences?)
+- Main focus for what the butler will be butlering (Movies, restaurants, books, etc)
 
 ## Server 
 - Decide on how we want to store data (i.e. SQL Database, **NoSQL**, Wallet)  
